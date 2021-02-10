@@ -1,7 +1,7 @@
 ### Hi there, I'm Rômulo 👋
 
 - 🔭 I’m currently working on my personal project [Fraternity](https://github.com/carneiroRomulo/fraternity)
-- 🌱 My interests goes from Stock Market to Machine Learning, always learning different things to improve myself
+- 🌱 My interests goes from Stock Market and self development to all kinds of technologies, always learning different things to improve myself
 
 ### Languages and Frameworks: 
 
