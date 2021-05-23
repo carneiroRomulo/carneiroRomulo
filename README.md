@@ -1,6 +1,9 @@
 ### Hi there, I'm Rômulo 👋
 
-- 🔭 I’m currently working on my personal project [Fraternity](https://github.com/carneiroRomulo/fraternity)
+- 🔭 I’m currently learning new skills focused on Data Science 
+- 🔭 Status of my personal project [Fraternity](https://github.com/carneiroRomulo/fraternity): <a href="https://www.repostatus.org/">
+    <img alt="Project Status: Suspended" src="https://img.shields.io/badge/Suspended-141F4F">
+  </a>
 - 🌱 My interests goes from Stock Market and self development to all kinds of technologies, always learning different things to improve myself
 
 ### Languages and Frameworks: 
