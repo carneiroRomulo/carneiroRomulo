@@ -1,6 +1,6 @@
 ### Hi there, I'm Rômulo 👋
 
-- Data Science Internet at [Seazone](https://seazone.com.br/)
+- Data Science Intern at [Seazone](https://seazone.com.br/)
 - 🔭 I’m currently learning new skills focused on Data Science 
 - 🔭 Status of my personal project [Fraternity](https://github.com/carneiroRomulo/fraternity): <a href="https://www.repostatus.org/">
     <img alt="Project Status: Suspended" src="https://img.shields.io/badge/Suspended-141F4F">
