@@ -1,6 +1,6 @@
 ### Hi there, I'm Rômulo 👋
 
-- Data Scientist and Backend Developer
+- Backend Developer
 - 🔭 I’m currently learning new skills focused on Data Science 
 - 🔭 Pursuing Success in the Entrepreneurial World through my expertise in data science
   </a>
