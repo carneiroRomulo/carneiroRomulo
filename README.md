@@ -3,7 +3,6 @@
 - Backend Developer
 - 🔭 I’m currently learning new skills focused on Data Science 
 - 🔭 Pursuing Success in the Entrepreneurial World through my expertise in data science
-  </a>
 - 🌱 My interests goes from Stock Market and self development to all kinds of technologies, always learning different things to improve myself
 
 ---
