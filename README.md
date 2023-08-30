@@ -1,7 +1,6 @@
 ### Hi there, I'm Rômulo 👋
 
 - Fullstack Developer
-- 🔭 I’m currently learning new skills focused on Rest API and Project Management
 - 🌱 My interests goes from Stock Market and self development to all kinds of technologies, always learning different things to improve myself
 
 ---
